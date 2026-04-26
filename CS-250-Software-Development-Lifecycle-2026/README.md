@@ -6,6 +6,11 @@ This artifact is my Sprint Review and Retrospective from the SNHU Travel project
 
 ### Essential Questions
 
+### Files
+
+– Final written sprint review and retrospective for the SNHU Travel project.
+- PowerPoint version of this presentation is stored locally because the file is larger than GitHub’s web upload limit and can be shared on request.
+
 #### How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?
 
 I interpret user needs by focusing on what the user is trying to do and why that matters to them. In the SNHU Travel project, that meant thinking about different kinds of users, like someone who wants to quickly view the top five destinations, a returning customer who wants personalized recommendations, or a traveler looking for deals that match their budget and style. Breaking those needs into user stories helped make the project feel more practical because each story focused on a real user goal instead of just a feature.
