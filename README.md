@@ -1,9 +1,9 @@
 # Southern New Hampshire University (SNHU) — Computer Science Portfolio
 
-Welcome to my professional Computer Science ePortfolio! This repository serves as a centralized showcase of my software engineering capabilities, architectural design principles, and agile project methodologies developed throughout my Bachelor of Science in Computer Science program at SNHU.
+Welcome to my portfolio! I'm a Computer Science student at SNHU passionate about building efficient, clean software. Here you'll find a timeline of my growth, the projects I've built, and the practices I've picked up along the way.
 
 > [!NOTE]
-> This portfolio is built with forward-compatibility in mind, organized cleanly by course code to support ongoing academic achievements and directly align with the **CS-499 Computer Science Capstone** requirements.
+> This portfolio is built with forward-compatibility in mind, organized cleanly by course code to support ongoing academic achievements and directly align with future senior capstone requirements.
 
 ---
 
@@ -11,7 +11,7 @@ Welcome to my professional Computer Science ePortfolio! This repository serves a
 * **Name:** Adalberto Flores
 * **Major:** B.S. in Computer Science @ SNHU
 * **Location:** San Antonio, TX (SATX)
-* **Goal:** To engineer clean, high-performance, and secure software solutions using modern software engineering paradigms and agile development frameworks.
+* **Goal:** I'm a developer who enjoys solving complex problems, particularly focusing on backend logic and data structures. I'm currently working toward a role in Software Engineering where I can continue applying Agile methodologies.
 
 ---
 
@@ -33,12 +33,14 @@ This dashboard links directly to each course module, providing quick access to s
 * **Focus:** Object-Oriented Programming (OOP), Data Structures (STL Maps), and File Input/Output (I/O).
 * **Summary:** A console-based item-tracking application that reads purchase records, computes item frequencies using maps for optimized $O(1)$ lookups, generates daily backups, and renders custom text-based histograms.
 * **Key Achievements:** Implemented robust OOP principles by encapsulating logic within a clean `GroceryTracker` class, ensuring maintainable, readable, and highly reusable code.
+* **Personal Takeaway:** This project taught me how to handle unexpected file I/O errors and optimize memory usage in C++, bridging the gap between theoretical data structures and practical implementation.
 
 ### 2. [CS-250: Software Development Lifecycle](./CS-250)
 * **Project Name:** SNHU Travel Sprint Review & Retrospective
 * **Focus:** Agile Methodologies, Scrum Framework, User Stories, and Sprint Planning.
 * **Summary:** A comprehensive professional review and retrospective analysis representing Scrum best practices, team velocity estimation, and user story mapping for the *SNHU Travel* project.
 * **Key Achievements:** Practiced transforming customer user needs into structured user stories with concrete acceptance criteria, prioritizing backlogs, and managing team milestones.
+* **Personal Takeaway:** Moving beyond just writing code, this experience highlighted the importance of clear communication and structured planning when translating vague client requirements into actionable development tasks.
 
 ---
 
@@ -49,7 +51,7 @@ As I advance through the SNHU Computer Science curriculum, new courses will be i
 * **CS-300:** *Data Structures and Algorithms* (C++) 
 * **CS-350:** *Secure Coding* (C++/Java)
 * **CS-360:** *Mobile Architecture & Programming* (Android/Kotlin)
-* **CS-499:** *Computer Science Capstone* (Full-Stack / Portfolio Integration)
+* **Senior Capstone:** *(Full-Stack / Portfolio Integration)*
 
 ---
 
