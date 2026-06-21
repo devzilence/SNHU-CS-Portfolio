@@ -1,3 +1,3 @@
 # CS-255: System Analysis and Design
 
-*Details and final project will be added here.*
+*This is where I will reflect on my work.*
