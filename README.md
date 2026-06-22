@@ -25,7 +25,7 @@ This dashboard links directly to each course module, providing quick access to s
 | **CS-210** | Programming Languages | [🛒 Corner Grocer Tracker](./CS-210) | C++ | Software Design & Engineering |
 | **CS-230** | Operating Platforms | [⚙️ The Gaming Room Architecture](./CS-230) | System Arch / Linux | Systems Architecture |
 | **CS-250** | Software Development Lifecycle | [🔄 Sprint Review & Retrospective](./CS-250) | Agile / Scrum | Software Engineering & Agile |
-| **CS-255** | System Analysis and Design | [📋 Project Placeholder](./CS-255) | TBD | Systems Analysis |
+| **CS-255** | System Analysis and Design | [🚗 DriverPass System Design](./CS-255) | UML | Systems Analysis |
 
 ---
 
@@ -53,9 +53,11 @@ This dashboard links directly to each course module, providing quick access to s
 * **Personal Takeaway:** This project reinforced that understanding the underlying operating system (like memory paging and process management) is just as important for scalable applications as writing the code itself.
 
 ### 4. [CS-255: System Analysis and Design](./CS-255)
-* **Project Name:** *TBD*
-* **Focus:** Systems Analysis
-* **Summary:** *Currently enrolled - details and final project will be added upon completion.*
+* **Project Name:** DriverPass System Design Documentation
+* **Focus:** Systems Analysis, UML Modeling, Requirements Gathering.
+* **Summary:** A system design document for a cloud based driving school scheduling application. Includes Use Case, Activity, Sequence, and Class UML diagrams mapping out the client's architecture.
+* **Key Achievements:** Successfully translated raw client requirements into concrete UML architecture that accounts for role based security and scheduling conflict logic.
+* **Personal Takeaway:** Validating software design visually through UML before development ensures the final product aligns perfectly with user expectations and prevents costly architectural rewrites.
 
 ---
 
