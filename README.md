@@ -11,7 +11,7 @@ Welcome to my portfolio! I'm a Computer Science student at SNHU passionate about
 * **Name:** Adalberto Flores
 * **Major:** B.S. in Computer Science @ SNHU
 * **Location:** San Antonio, TX (SATX)
-* **LinkedIn:** [https://www.linkedin.com/in/floresdevx/](https://www.linkedin.com/in/floresdevx/)
+* [LinkedIn](https://www.linkedin.com/in/floresdevx/)
 * **Goal:** I'm a developer who enjoys solving complex problems, particularly focusing on backend logic and data structures. I'm currently working toward a role in Software Engineering where I can continue applying Agile methodologies.
 
 ---
