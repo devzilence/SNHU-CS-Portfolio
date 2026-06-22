@@ -22,7 +22,9 @@ This dashboard links directly to each course module, providing quick access to s
 | Course | Course Name | Artifact & Quick Link | Language / Framework | Core CS Category |
 | :--- | :--- | :--- | :--- | :--- |
 | **CS-210** | Programming Languages | [🛒 Corner Grocer Tracker](./CS-210) | C++ | Software Design & Engineering |
+| **CS-230** | Operating Platforms | [⚙️ The Gaming Room Architecture](./CS-230) | System Arch / Linux | Systems Architecture |
 | **CS-250** | Software Development Lifecycle | [🔄 Sprint Review & Retrospective](./CS-250) | Agile / Scrum | Software Engineering & Agile |
+| **CS-255** | System Analysis and Design | [📋 Project Placeholder](./CS-255) | TBD | Systems Analysis |
 
 ---
 
@@ -41,6 +43,18 @@ This dashboard links directly to each course module, providing quick access to s
 * **Summary:** A comprehensive professional review and retrospective analysis representing Scrum best practices, team velocity estimation, and user story mapping for the *SNHU Travel* project.
 * **Key Achievements:** Practiced transforming customer user needs into structured user stories with concrete acceptance criteria, prioritizing backlogs, and managing team milestones.
 * **Personal Takeaway:** Moving beyond just writing code, this experience highlighted the importance of clear communication and structured planning when translating vague client requirements into actionable development tasks.
+
+### 3. [CS-230: Operating Platforms](./CS-230)
+* **Project Name:** The Gaming Room Architecture Design
+* **Focus:** Cross-Platform Deployment, System Architecture, OS Resource Management.
+* **Summary:** A comprehensive software design document detailing the transition of a mobile app to a centralized, cross-platform Linux server environment using RESTful APIs and relational databases.
+* **Key Achievements:** Mapped out domain models applying strong inheritance and encapsulation, and formulated scalable deployment solutions.
+* **Personal Takeaway:** This project reinforced that understanding the underlying operating system (like memory paging and process management) is just as important for scalable applications as writing the code itself.
+
+### 4. [CS-255: System Analysis and Design](./CS-255)
+* **Project Name:** *TBD*
+* **Focus:** Systems Analysis
+* **Summary:** *Currently enrolled - details and final project will be added upon completion.*
 
 ---
 
