@@ -26,6 +26,7 @@ This dashboard links directly to each course module, providing quick access to s
 | **CS-230** | Operating Platforms | [⚙️ The Gaming Room Architecture](./CS-230) | System Arch / Linux | Systems Architecture |
 | **CS-250** | Software Development Lifecycle | [🔄 Sprint Review & Retrospective](./CS-250) | Agile / Scrum | Software Engineering & Agile |
 | **CS-255** | System Analysis and Design | [🚗 DriverPass System Design](./CS-255) | UML | Systems Analysis |
+| **CS-320** | Software Testing, Automation & QA | [🔬 Testing & QA Artifact](./CS-320) | Java | Software Quality Assurance |
 
 ---
 
@@ -58,6 +59,13 @@ This dashboard links directly to each course module, providing quick access to s
 * **Summary:** A system design document for a cloud based driving school scheduling application. Includes Use Case, Activity, Sequence, and Class UML diagrams mapping out the client's architecture.
 * **Key Achievements:** Successfully translated raw client requirements into concrete UML architecture that accounts for role based security and scheduling conflict logic.
 * **Personal Takeaway:** Validating software design visually through UML before development ensures the final product aligns perfectly with user expectations and prevents costly architectural rewrites.
+
+### 5. [CS-320: Software Testing, Automation and Quality Assurance](./CS-320)
+* **Project Name:** Contact Service (Project One) & Testing Summary and Reflection Report (Project Two)
+* **Focus:** JUnit Testing, Requirements-Driven Validation, Defensive Design
+* **Summary:** A backend contact management service written in Java, validated with JUnit tests covering valid cases, invalid cases, and boundary values. Paired with a summary and reflection report analyzing the testing approach and quality assurance practices.
+* **Key Achievements:** Wrote meaningful JUnit tests that prove requirements are enforced (null checks, length limits, duplicate ID rejection), and connected test coverage directly to stated requirements rather than just passing assertions.
+* **Personal Takeaway:** Testing must prove required behavior, not just compile and pass. Intentional edge-case testing with invalid inputs produces software that behaves correctly under realistic conditions.
 
 ---
 
